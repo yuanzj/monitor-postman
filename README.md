@@ -21,6 +21,9 @@
 nohup java -jar monitor-man-0.0.1-SNAPSHOT.jar --monitor.storage.directory=测试报告存储绝对路径 &
 ```
 
+## Docker
+即将发布
+
 
 ## License
 This software is licensed under MIT. See the [LICENSE](LICENSE) file for more information.
